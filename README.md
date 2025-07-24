@@ -1,6 +1,5 @@
 # 🤖 Sarcasm Detection
 
-This repository contains a machine learning model and dataset focused on detecting sarcasm in text using semantic embeddings and modern NLP techniques. It aims to make sarcasm detection programmable and scalable for real-world applications
 
 ---
 
